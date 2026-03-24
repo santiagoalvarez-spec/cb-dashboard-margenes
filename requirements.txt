@@ -1,4 +1,5 @@
-<br>streamlit==1.35.0
-<br>pandas==2.2.2
-<br>openpyxl==3.1.2
-<br>
+streamlit==1.35.0
+pandas==2.2.2
+openpyxl==3.1.2
+xlsxwriter==3.2.0
+APScheduler==3.10.4
